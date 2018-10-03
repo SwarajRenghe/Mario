@@ -1,10 +1,11 @@
 # Super Mario Clone
-# Environment - Linux Terminal - Python
+### Environment 
+Linux Terminal - Python
 
-## Introduction
+## Some Details
 The application is written in _near-Vanilla_ Python. The only dependency
 is the `colorama` library, in order to provide some colors to an
-otherwise monochrome ASCII text environment.
+otherwise monochrome ASCII text environment. It also includes some music from the original game, to pay homage to the classic Super Mario Bros. game.
 
 ## Structure
 
