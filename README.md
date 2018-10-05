@@ -35,7 +35,6 @@ with the location of your python installation
 
 ## File Structure
 
-.
  * [main.py](./main.py)
  * [character.py](./character.py)
  * [input.py](./input.py)
